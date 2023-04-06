@@ -19,8 +19,8 @@ const Hero = () => {
             <br />
 
             <p>
-              Oleme arendajatele orienteeriud suhtluskeskond, kus saab sõpradega
-              koodijutte rääkida ja kohvi juua.
+              Oleme arendajatele orienteeritud suhtluskeskond, kus saab
+              sõpradega koodijutte rääkida ja kohvi juua.
             </p>
             <SocialMedia />
           </div>
