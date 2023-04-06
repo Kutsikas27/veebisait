@@ -24,7 +24,7 @@ const SocialMediaStyled = styled.div`
   }
   .main-button {
     background-color: rgb(247, 223, 30);;
-    border: 1px solid rgb(64, 123, 255);;
+    border: 1px solid rgb(247, 223, 30);;
     color: #000;
     font-weight: 700;
     width: -webkit-max-content;

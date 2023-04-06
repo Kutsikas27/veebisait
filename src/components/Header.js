@@ -11,7 +11,7 @@ const Header = () => {
         <div className="header-content">
           <div style={{ display: "flex", alignItems: "center" }}>
             <div>
-              <img src={reactLogo} alt="logo" style={{ height: "100px" }}></img>
+              <img src={reactLogo} alt="logo"></img>
             </div>
           </div>
 
