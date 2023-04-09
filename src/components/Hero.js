@@ -12,16 +12,18 @@ const Hero = () => {
       <div className="container">
         <div className="hero-text">
           <div className="left-side">
-            <h4>Tere tulemast</h4>
             <h4>
-              <strong>Eesti Javascripti</strong> Discordi serverisse!
+              Tere tulemast
+              <strong> Eesti Javascripti</strong> Discordi serverisse!
             </h4>
             <br />
 
             <p>
-              Oleme arendajatele orienteeritud <strong>jututuba</strong>, kus
-              saab sõpradega koodijutte rääkida ja kohvi juua.
+              Oleme arendajatele ja tehnikahuvilistele orienteeritud
+              <strong> jututuba</strong>, kus saab arutleda päevakajaliste
+              teemade üle, kohvi juua ja palju muudki!
             </p>
+
             <SocialMedia />
           </div>
           <div className="right-side">
