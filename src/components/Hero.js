@@ -14,7 +14,7 @@ const Hero = () => {
           <div className="left-side">
             <h4>
               Tere tulemast
-              <strong> Javascripti</strong> Discordi serverisse!
+              <strong> Koodijuttude</strong> Discordi serverisse!
             </h4>
             <br />
 
