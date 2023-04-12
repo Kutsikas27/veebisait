@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import ToggleMode from "./ToggleMode";
-import reactLogo from "../icons/logo4.png";
+import reactLogo from "../icons/logo11.png";
 
 const Header = () => {
   return (
