@@ -11,7 +11,7 @@ const Header = () => {
         <div className="header-content">
           <div style={{ display: "flex", alignItems: "center" }}>
             <div>
-              <img src={reactLogo} alt="logo"></img>
+              <img className="logo" src={reactLogo} alt="logo"></img>
             </div>
           </div>
 
@@ -45,6 +45,16 @@ const HeaderStyle = styled.header`
     text-transform: capitalize;
     font-size: 25px;
     color: white;
+  }
+
+  .logo {
+    width: 60%;
+  }
+
+  @media (max-width: 767px) {
+    .logo {
+      width: 90%;
+    }
   }
 `;
 
